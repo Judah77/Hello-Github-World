@@ -1,2 +1,5 @@
 # Hello-Github-World
 The tutorial repository as instructed by sign up.
+Following the tutorial, I am IT Developer in the medical billing industry who works day to day with cache, Artiva Healthcare, WinSQL, Tidal Enterprise software, and occassionally an ETL tool.  I design and maintain client implementations for an EBO with multiple hospitals as my company's clients.  I have performed this job since October 2014.  It is possible I may help people in this area, but it will not be my main focus.  Pre-2014, I have familiarity with Matlab, C, HTML/website design, and C++.   Also did Java a long time ago (have forgotten the syntax).
+
+My goal on github is to futher my ability to develop a virtual CCG (collectible card game).  I have the rules written already and about 2000 cards designed.  Using normal playing cards and a printed chart, I have playtested the first set of approximately 400 cards.  I would like this game to be playable across multiple platforms.  I want to design an interface, rules engine, and database archive of digital objects supporting millions of 'card' objects and thousands of users.
